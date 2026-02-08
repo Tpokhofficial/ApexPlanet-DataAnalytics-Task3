@@ -1,0 +1,15 @@
+Deep-Dive Analysis Report – Task 3
+
+This task focuses on a deep-dive analysis of aggression behavior using an interactive dashboard built in Power BI.
+
+Key Performance Indicators (KPIs) such as average aggression score, gender-wise aggression, and aggression by violent video game exposure were analyzed.
+
+Respondents were segmented into three groups based on aggression score:
+Low (≤ 2.5), Moderate (2.5–3.5), and High (> 3.5).
+
+The analysis shows that the majority of respondents fall into the Moderate aggression segment.
+Higher aggression scores are observed among respondents with higher exposure to violent video games.
+Gender-based differences exist, but the variation is relatively small.
+
+An interactive dashboard was created to explore these insights dynamically using filters.
+Due to publishing limitations, dashboard views were exported as PDFs to demonstrate interactivity and findings.

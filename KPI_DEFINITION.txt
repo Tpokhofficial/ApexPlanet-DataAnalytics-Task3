@@ -1,0 +1,11 @@
+1. Average Aggression Score
+   Definition: Mean of aggression score across all respondents
+
+2. High Aggression Percentage
+   Definition: Percentage of respondents with aggression score > 3
+
+3. Gender-wise Average Aggression
+   Definition: Average aggression score grouped by gender
+
+4. Average Aggression by Game Exposure
+   Definition: Mean aggression score across different levels of violent video game exposure
